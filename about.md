@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+In summer 2014, three friends—Cooper, Nick, and Benjie—set off on a 10,000-mile journey from England to Mongolia. This blog recounts their experience. The full website is located at [www.crossingtherubikhan.com](http://crossingtherubikhan.com).
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[hello@crossingtherubikhan.com](mailto:hello@crossingtherubikhan.com)
