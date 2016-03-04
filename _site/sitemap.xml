@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/captains-log/</loc>
+<lastmod>2014-02-28T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/a-culture-a-day/</loc>
+<lastmod>2014-02-04T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>/happy-new-year/</loc>
 <lastmod>2013-12-31T00:00:00-05:00</lastmod>
 </url>
@@ -9,7 +17,7 @@
 <lastmod>2013-12-17T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>/Hello-There/</loc>
+<loc>/hello-there/</loc>
 <lastmod>2013-10-25T00:00:00-04:00</lastmod>
 </url>
 <url>

@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Captain's Log: February Doldrums Lead to March Madness"
+published: true
 ---
 
 

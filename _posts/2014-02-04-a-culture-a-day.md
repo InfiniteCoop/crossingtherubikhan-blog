@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "A Culture A Day"
 published: true
 ---
 
