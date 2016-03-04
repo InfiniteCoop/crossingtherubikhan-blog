@@ -1,0 +1,31 @@
+---
+published: false
+---
+
+## Cars and Carbon Consciousness
+
+Greetings, good readers, and welcome to the first (well, second) installment in our ongoing Mongol Rally chronicles! Although our July 19th start date is still several months away, we are already in the midst of planning. And by that, we really just mean ogling photo essays of Mongolia, practicing throat singing, and getting a head start on the obligatory Mongol Rally muttonchops (not really). We’ll do our very best to keep you abreast of our planning efforts as we continue to prepare for the 10,000-mile adventure that lies ahead.
+
+This post addresses a question that a number of you have raised, and one that we believe merits a blog entry of its own:
+
+_“Isn’t driving 10,000 miles sort of antithetical to the Cool Earth Foundation’s whole ‘save the rainforest and reduce greenhouse gases’ mission?”_
+
+Our answer? On paper, yes – driving 10,000 miles is not good for the environment, and we won’t pretend like it is. In reality, however, the emissions we will produce over the course of our journey pale in comparison to the emissions we’ll prevent from entering the atmosphere by donating to Cool Earth. Bear with me, as I attempt to illustrate this comparison using real figures:
+
+According to Cool Earth, £60 – a hair under $100USD, at the time of writing – protects one acre of rainforest. So, if we donate $1,500 to Cool Earth (that’s half of our total fundraising amount, with the other half going to SOS Children’s Villages), we’ll presumably protect 15 acres of rainforest.
+
+Now, clearing one acre of rainforest emits 260 tonnes of CO2 into the atmosphere. (Of course, it also displaces countless monkeys, tapirs, and anacondas). So, if we can protect 15 acres of forest, we’ll effectively keep 3,900 tonnes of CO2 safely out of the atmosphere. Meanwhile, those trees on the ground will continue to belch out the oxygen we so dearly need, while the monkeys inhabiting them will go about their daily mischief-making uninterrupted.
+
+Moving along, consider that 260 tonnes of CO2 – again, the amount produced by one acre of deforestation – is roughly equivalent to driving an average petrol-powered vehicle around the globe…a staggering 32 times! And the 3,900 tonnes of CO2 that our donation will help keep out of the atmosphere? That equals something like 480 laps around the planet! See where I’m going with this?
+
+If these numbers are correct, then one planetary lap produces something like 8.125 tonnes of CO2. We’re driving approximately 10,000 miles, or a little less than halfway around the planet. So while we’re certainly guilty of producing our own greenhouse gases – approximately 3.26 tonnes, if we assume that the circumference of the planet is 24,901 miles (as our good friend Google seems to indicate) and that our odometer hits the 10,000 mark – WE ARE STILL KEEPING AROUND 3,896 tonnes of CO2 SAFELY OUT OF THE ATMOSPHERE! And that, I think, is something we can all be proud of.
+
+So, as these hasty calculations hopefully illustrate, our little jaunt to Mongolia isn’t quite so environmentally harmful as it may initially seem, in the grand scheme of things.
+
+*          *          *
+
+In other news, today we hit our charity fundraising goal of $3,000 – hooray! While this is an exciting milestone, however, we still need your support in order to make this trip a reality. So, if you’ve got any coins rattling around in your pockets (err, Paypal account), or just want to help four young lads realize a dream, head on over to our [donation page](http://www.crossingtherubikhan.com/#donate). The rewards packages we’ve prepared for you – not to mention our forthcoming updates from the road – will ensure that you won’t regret it. If anything, do it for the monkeys and the tapirs!
+
+And of course, stay tuned for more blog posts in the near future.
+
+//Cooper
