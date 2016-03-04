@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: "Happy New Year"
+published: true
 ---
-
-## Happy New Year
 
 It’s 2014 in Mongolia!
 

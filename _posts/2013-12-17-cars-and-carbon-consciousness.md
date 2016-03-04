@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: "Cars and Carbon Consciousness"
+published: true
 ---
-
-## Cars and Carbon Consciousness
 
 Greetings, good readers, and welcome to the first (well, second) installment in our ongoing Mongol Rally chronicles! Although our July 19th start date is still several months away, we are already in the midst of planning. And by that, we really just mean ogling photo essays of Mongolia, practicing throat singing, and getting a head start on the obligatory Mongol Rally muttonchops (not really). We’ll do our very best to keep you abreast of our planning efforts as we continue to prepare for the 10,000-mile adventure that lies ahead.
 
