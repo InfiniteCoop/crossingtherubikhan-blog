@@ -13,9 +13,9 @@ Cooper is going bald trying to keep the rest of us on top of our responsibilitie
 
 That’s all we’ve got for now. Like always, thanks a ton to all of our incredible donors and sponsors! Special shout-out to [GoalZero](http://www.goalzero.com/) for sending us some amazing solar-powered gear.
 
-![DSC_0004-1024x680.jpg]({{site.baseurl}}/_images/DSC_0004-1024x680.jpg)
+![DSC_0004-1024x680.jpg]({{site.baseurl}}/images/DSC_0004-1024x680.jpg)
 
-![DSC_0009-1024x680.jpg]({{site.baseurl}}/_images/DSC_0009-1024x680.jpg)
+![DSC_0009-1024x680.jpg]({{site.baseurl}}/images/DSC_0009-1024x680.jpg)
 
 Also, hello to all the [Tripwingers](http://tripwing.com/) out there! If you feel like throwing us a bone, take a gander at our [ridiculous rewards packages](http://crossingtherubikhan.com/donate/) and perhaps even donate a shekel or three [here](http://crossingtherubikhan.com/donate/)!
 
