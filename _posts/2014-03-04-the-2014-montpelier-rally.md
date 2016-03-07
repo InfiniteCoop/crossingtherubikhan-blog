@@ -14,6 +14,7 @@ comment_status: open
 post_name: the-2014-montpelier-rally
 status: publish
 post_type: post
+published: true
 ---
 
 # The 2014 Montpelier Rally
