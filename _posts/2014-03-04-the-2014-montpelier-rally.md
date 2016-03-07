@@ -1,3 +1,8 @@
+---
+published: false
+---
+
+---
 title: The 2014 Montpelier Rally
 link: http://crossingtherubikhan.com/the-2014-montpelier-rally/
 author: buzkashi
@@ -9,6 +14,7 @@ comment_status: open
 post_name: the-2014-montpelier-rally
 status: publish
 post_type: post
+---
 
 # The 2014 Montpelier Rally
 
